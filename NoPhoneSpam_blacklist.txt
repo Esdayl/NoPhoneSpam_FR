@@ -1,0 +1,33 @@
++1%: Autres (1/8)
++2%: Autres (2/8)
++30%: Grèce
++31%: Pays-bas
++32%: Belgique
++33162%: Démarchage 0162
++33163%: Démarchage 0163
++33270%: Démarchage 0270
++33271%: Démarchage 0271
++33377%: Démarchage 0377
++33378%: Démarchage 0378
++33424%: Démarchage 0424
++33425%: Démarchage 0425
++33568%: Démarchage 0568
++33569%: Démarchage 0569
++339476%: Démarchage Guyane
++339477%: Démarchage Martinique
++339478%: Démarchage La Réunion
++339479%: Démarchage Mayotte
++33948%: Démarchage 0948
++33949%: Démarchage 0949
++34%: Espagne
++35%: Autres pays européens (1/3)
++36%: Hongrie
++37%: Autres pays européens (2/3)
++38%: Autres pays européens (3/3)
++39%: Italie
++4%: Autres (3/8)
++5%: Autres (4/8)
++6%: Autres (5/8)
++7%: Autres (6/8)
++8%: Autres (7/8)
++9%: Autres (8/8)
